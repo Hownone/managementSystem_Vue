@@ -1,0 +1,53 @@
+
+export default [
+  {
+    name: "张三",
+    phone: '13296451245',
+    amin: '负责人1',
+    level: 'B级',
+    count: '5',
+    comNum: '0/0',
+    sex: "男",
+    age: "70后",
+  },
+  {
+    name: "李四",
+    phone: '13296451211',
+    amin: '负责人1',
+    level: 'B级',
+    count: '5',
+    comNum: '0/0',
+    sex: "男",
+    age: "80后",
+  },
+  {
+    name: "环奈",
+    phone: '13296452245',
+    amin: '负责人2',
+    level: 'A级',
+    count: '8',
+    comNum: '0/0',
+    sex: "女",
+    age: "90后",
+  },
+  {
+    name: "飞鸟",
+    phone: '13296451233',
+    amin: '负责人3',
+    level: 'A级',
+    count: '7',
+    comNum: '0/0',
+    sex: "女",
+    age: "90后",
+  },
+  {
+    name: "梅西",
+    phone: '13296451233',
+    amin: '负责人5',
+    level: 'A级',
+    count: '7',
+    comNum: '0/0',
+    sex: "男",
+    age: "80后",
+  }
+];
